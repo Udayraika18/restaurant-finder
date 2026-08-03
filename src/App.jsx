@@ -41,7 +41,7 @@ export default function App() {
   });
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gradient-to-br from-orange-50 via-white to-amber-50">
 
       <div className="max-w-7xl mx-auto px-6 py-10">
 
